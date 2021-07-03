@@ -23,7 +23,14 @@ Here are some ideas to get you started:
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Prince6112 alt=Prince6112/></p>
 
 
-### Wanna stalk my website:question::point_right: [Click Here](https://prince6112.github.io/Portfolio-Prince/):sparkles:
+### Want to take a look at my Portfolio Webiste:question::point_right: [Click Here](https://prince6112.github.io/Portfolio-Prince/):sparkles:
+
+- 📢 About me ... Aspiring Full Stack Developer & UI/UX Designer 💻
+- 🔭 I’m currently working on ... Lot of awesome new ideas and innovative realtime projects 💥
+- 🌱 I’m currently learning ... Computer Science & Engineering. Also Exciting New & Old Technologies, DSA, APIs, Concepts 🤩 
+- 🤝 I’m looking to collaborate on ... Cool new opensource and ingenious ideas, projects 🎯
+- 🤔 I’m looking for help with ... Full Stack Development, Latest Technologies, Current Trends & Projects ✨
+- 💬 Ask me about ... Anything related to Technology, Development, Innovation, Sports, Games, Music, Food, GK & News 🥇
 
 
 ### What are my featured projects:question::rocket:
@@ -38,12 +45,13 @@ Here are some ideas to get you started:
 
 
 ## Quick Overview 📝
-    
+<!--
 <a href="https://github.com/hackcoderr/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Prince6112&show_icons=true&include_all_commits=true&theme=radical" alt="Akshay's github stats" />
 </a>
+-->
+
 <a href="https://github.com/AkshayAnil1080/github-readme-stats">
- 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Prince6112&layout=compact&theme=radical" />
 </a>
 
