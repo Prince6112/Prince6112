@@ -5,8 +5,8 @@
   <img src="webpage capture.JPG">
 </p>
 
-[PrinceSamuel](https://komarev.com/ghpvc/?username=Prince6112&style=plastic)
-<img src=https://komarev.com/ghpvc/?username=Prince6112 alt=Prince6112/></p>
+(https://komarev.com/ghpvc/?username=Prince6112&style=plastic)
+<p><img src=https://komarev.com/ghpvc/?username=Prince6112 alt=Prince6112/></p>
 
 
 ### Want to take a look at my Portfolio Webiste:question::point_right: [Click Here](https://prince6112.github.io/Portfolio-Prince/):sparkles:
