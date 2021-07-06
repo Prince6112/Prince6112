@@ -5,7 +5,6 @@
   <img src="webpage capture.JPG">
 </p>
 
-(https://komarev.com/ghpvc/?username=Prince6112&style=plastic)
 <p><img src=https://komarev.com/ghpvc/?username=Prince6112 alt=Prince6112/></p>
 
 
