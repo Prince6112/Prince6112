@@ -25,17 +25,8 @@
 <code>[Full Stack Grocery Store](https://github.com/Prince6112/Full-Stack-Grocery-Store)</code>:computer: 
 
 
-<!-- <b>My GitHub contributions as a Game of Life</b>
-
-[![GitHub Game of Life](https://github4life.herokuapp.com/AkshayAnil1080.gif?z=6)](https://github4life.herokuapp.com/AkshayAnil1080) -->
-
 
 ## Quick Overview 📝
-<!--
-<a href="https://github.com/hackcoderr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Prince6112&show_icons=true&include_all_commits=true&theme=radical" alt="Akshay's github stats" />
-</a>
--->
 
 <a href="https://github.com/AkshayAnil1080/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Prince6112&layout=compact&theme=radical" />
