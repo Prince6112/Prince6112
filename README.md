@@ -2,7 +2,7 @@
 ## Welcome to my profile
 
 <p align="center">
-  <img src=cover.JPG">
+  <img src="cover.JPG">
 </p>
 
 <p><img src=https://komarev.com/ghpvc/?username=Prince6112 alt=Prince6112/></p>
